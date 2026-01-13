@@ -1,0 +1,25 @@
+To learn HTML, think of it as the skeleton of a webpage. Everything is built using tags that wrap around content: <tag>Content</tag>.
+​The Basic Structure
+​Every HTML file must have this foundation to work correctly:
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Page Title</title>
+</head>
+<body>
+    <h1>My First Heading</h1>
+    <p>This is a paragraph of text.</p>
+    <a href="https://google.com">This is a link</a>
+</body>
+</html>
+Essential Tags for Exercises
+​Headings: <h1> (main title) down to <h6> (smallest subtitle).
+​Text: <p> for paragraphs, <b> or <strong> for bold, <i> or <em> for italics.
+​Lists: <ul> (bullet points) or <ol> (numbered lists), with <li> for each item.
+​Multimedia: <img src="image.jpg"> for images and <video> for clips.
+​Containers: <div> (generic block) and <span> (inline text) used for layout and styling.
+​Attributes
+​Tags can have "settings" called attributes. These always go inside the opening tag:
+​<a href="url">: href tells the link where to go.
+​<img src="path" alt="description">: src is the image source and alt is a text description for accessibility.
+​Pro Tip: Save your code in a file ending in .html (like index.html) and simply double-click it to see it in your browser.
