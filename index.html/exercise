@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Web</title>
+</head>
+<body>
+
+<header>
+    <h1>Mi página web</h1>
+</header>
+
+<nav>
+    <a href="#">Inicio</a> |
+    <a href="#">Sobre mí</a> |
+    <a href="#">Contacto</a>
+</nav>
+
+<main>
+    <p>Bienvenido a mi sitio web hecho con HTML5.</p>
+</main>
+<h2>puedes aprender html con mis projectos o usando google</h2>
+<a href="https://www.google.com" target="_blank">
+    Ir a Google
+</a>
+<p>aqui podras encontrar</p>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+</ul>
+<footer>
+    <p>© 2026</p>
+</footer>
+
+</body>
+</html>
